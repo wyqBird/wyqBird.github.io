@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-18T12:42:09.017Z</updated>
+  <updated>2019-11-19T01:34:51.721Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,32 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>blog3</title>
-    <link href="http://yoursite.com/2019/11/18/blog3-1/"/>
-    <id>http://yoursite.com/2019/11/18/blog3-1/</id>
-    <published>2019-11-18T12:42:09.000Z</published>
-    <updated>2019-11-18T12:42:09.017Z</updated>
+    <title>test1</title>
+    <link href="http://yoursite.com/2019/11/19/test1/"/>
+    <id>http://yoursite.com/2019/11/19/test1/</id>
+    <published>2019-11-19T01:17:47.000Z</published>
+    <updated>2019-11-19T01:34:51.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>图片1E:\GitBlog\source_posts\test1</p><p>图片2：E:\GitBlog\source\images</p><p>图片3</p><p>图片4<br><img src="/2019/11/19/test1/teTU.jpg" alt></p>]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>blog3</title>
-    <link href="http://yoursite.com/2019/11/18/blog3/"/>
-    <id>http://yoursite.com/2019/11/18/blog3/</id>
-    <published>2019-11-18T12:25:36.000Z</published>
-    <updated>2019-11-18T13:10:46.113Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><p>Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程 [1]  。</p><a id="more"></a><h2 id="1-1-一节"><a href="#1-1-一节" class="headerlink" title="1.1 一节"></a>1.1 一节</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">enum</span> Color &#123;</span><br><span class="line">    <span class="comment">/**</span></span><br><span class="line"><span class="comment">     * RED:红色，BLUE:蓝色，GREEN:绿色</span></span><br><span class="line"><span class="comment">     */</span></span><br><span class="line">    RED(),</span><br><span class="line">    BLUE(),</span><br><span class="line">    GREEN()</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="1-2-二节"><a href="#1-2-二节" class="headerlink" title="1.2 二节"></a>1.2 二节</h2><p>第一张图</p><img class="blog3&#x2F;0c9d84aadfca831673c1727323d3e89a.jpg title text &#39;alt text&#39;">]]></content>
-    
-    <summary type="html">
-    
-      第3篇测试文章
+      图片测试
     
     </summary>
     
@@ -50,87 +35,11 @@
       <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-      <category term="标签测试1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%951/"/>
+      <category term="测试标签1" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE1/"/>
     
-      <category term="标签测试2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%952/"/>
+      <category term="测试标签2" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE2/"/>
     
-      <category term="标签测试3" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%953/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>second blog</title>
-    <link href="http://yoursite.com/2019/11/18/second-blog/"/>
-    <id>http://yoursite.com/2019/11/18/second-blog/</id>
-    <published>2019-11-18T12:08:36.000Z</published>
-    <updated>2019-11-18T12:16:49.829Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><p>Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程 [1]  。</p><a id="more"></a><h2 id="1-1-一节"><a href="#1-1-一节" class="headerlink" title="1.1 一节"></a>1.1 一节</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">enum</span> Color &#123;</span><br><span class="line">    <span class="comment">/**</span></span><br><span class="line"><span class="comment">     * RED:红色，BLUE:蓝色，GREEN:绿色</span></span><br><span class="line"><span class="comment">     */</span></span><br><span class="line">    RED(),</span><br><span class="line">    BLUE(),</span><br><span class="line">    GREEN()</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="1-2-二节"><a href="#1-2-二节" class="headerlink" title="1.2 二节"></a>1.2 二节</h2><p>第一张图<br><img src="./second-blog/0c9d84aadfca831673c1727323d3e89a.jpg" alt="enter description here"><br>第二章图<br><img src="./img/462cf2de2c3a66d1da9f5be4e0ec1f38.jpg" alt="enter description here"></p>]]></content>
-    
-    <summary type="html">
-    
-      第二篇测试文章
-    
-    </summary>
-    
-    
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-      <category term="标签测试1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%951/"/>
-    
-      <category term="标签测试2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%952/"/>
-    
-      <category term="标签测试3" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%953/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>first blog</title>
-    <link href="http://yoursite.com/2019/11/18/first-blog/"/>
-    <id>http://yoursite.com/2019/11/18/first-blog/</id>
-    <published>2019-11-18T02:47:44.000Z</published>
-    <updated>2019-11-18T12:04:02.274Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h1><p>Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程 [1]  。</p><a id="more"></a><h2 id="1-1-一节"><a href="#1-1-一节" class="headerlink" title="1.1 一节"></a>1.1 一节</h2><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">enum</span> Color &#123;</span><br><span class="line">    <span class="comment">/**</span></span><br><span class="line"><span class="comment">     * RED:红色，BLUE:蓝色，GREEN:绿色</span></span><br><span class="line"><span class="comment">     */</span></span><br><span class="line">    RED(),</span><br><span class="line">    BLUE(),</span><br><span class="line">    GREEN()</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h2 id="1-2-二节"><a href="#1-2-二节" class="headerlink" title="1.2 二节"></a>1.2 二节</h2><p>第一张图片，如下E:\GitBlog\themes\hexo-theme-next\source\images<br><img src="./images/2019-08-19_110026.png" alt="enter description here"></p><h1 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h1><h2 id="2-1-一节"><a href="#2-1-一节" class="headerlink" title="2.1 一节"></a>2.1 一节</h2><p>换个路径，根目录下imags文件夹下E:\GitBlog\public\images<br><img src="./images/%E5%8D%97%E6%B5%B7.png" alt="enter description here"></p><h2 id="2-2-二节"><a href="#2-2-二节" class="headerlink" title="2.2 二节"></a>2.2 二节</h2><p>E:\GitBlog\source\images<br><img src="./images/8502fe854cecb160b15bbf2748bf97f3.jpg" alt="enter description here"><br><img src="../../../images/8502fe854cecb160b15bbf2748bf97f3.jpg"></p><h2 id="2-3-三节"><a href="#2-3-三节" class="headerlink" title="2.3 三节"></a>2.3 三节</h2><p>文章目录下的images<br><img src="./images/b0cd5af7fe02bcfb92bcde7de17de52f.jpg" alt="enter description here"></p>]]></content>
-    
-    <summary type="html">
-    
-      第一篇测试文章
-    
-    </summary>
-    
-    
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-      <category term="标签测试1" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%951/"/>
-    
-      <category term="标签测试2" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%952/"/>
-    
-      <category term="标签测试3" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%953/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/17/hello-world/"/>
-    <id>http://yoursite.com/2019/11/17/hello-world/</id>
-    <published>2019-11-17T09:20:22.914Z</published>
-    <updated>2019-11-17T09:20:22.915Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
+      <category term="测试标签3" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE3/"/>
     
   </entry>
   
